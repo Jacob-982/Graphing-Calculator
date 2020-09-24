@@ -1,2 +1,2 @@
-# Graphing-Calculator
+# Disease-Spreading-Simulation
 Disease Spreading Simulation
